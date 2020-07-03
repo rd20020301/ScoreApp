@@ -1,0 +1,19 @@
+<resources >
+    <string name="app_name">ScoreApp</string>
+    <string name="match" />
+    <string name="team_a">Champions Soccer</string>
+    <string name="touchDownA">touch down</string>
+    <string name="oneExtraPointA">extra point +1</string>
+    <string name="twoExtraPointA">extra points +2</string>
+    <string name="fieldGoalA">field goal</string>
+    <string name="safetyA">safety</string>
+    <string name="team_b">Wolf Boll</string>
+    <string name="touch_down">touch down</string>
+    <string name="_1_extra_point">extra point +1</string>
+    <string name="_2_extra_points">extra points +2</string>
+    <string name="field_goal">field goal</string>
+    <string name="safety">safety</string>
+    <string name="reset">RESET</string>
+    <string name="exit">EXIT</string>
+
+</resources>
