@@ -8,7 +8,7 @@ American Football Scores App: Add a button for each of the 4 amounts of points a
 Football Scores app: Track both points and fouls
 
 ## Final Output - Screenshots
-![ScoreApp](file/screen)  
+![ScoreApp](file/screen.jpg)  
 
 
 # Download
